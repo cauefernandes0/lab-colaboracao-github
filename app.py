@@ -1,7 +1,7 @@
 print("Olá Mundo!")
 
-def saudacao(nome):
-    print(f"Olá, {nome}!")
-
 def soma(a, b):
     return a + b
+
+def saudacao(nome):
+    print(f"Olá, {nome}!")
